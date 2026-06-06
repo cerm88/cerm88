@@ -20,10 +20,10 @@
 
 ### 👨‍💻 About Me
 
-*   🎯 Passionate web developer dedicated to creating exceptional digital experiences.[cite: 1]
-*   🎨 Expert in UI/UX design using Figma and frontend development with Vue.js and React.js.[cite: 1]
-*   ⚙️ Possess solid backend knowledge (Django with DRF and NestJS) and DevOps practices (Docker and AWS), allowing me to handle the complete development lifecycle.[cite: 1]
-*   🚀 My goal is to join a dynamic team where I can apply my skills to build innovative solutions and scale in an environment of constant learning.[cite: 1]
+*   🎯 Passionate web developer dedicated to creating exceptional digital experiences.
+*   🎨 Expert in UI/UX design using Figma and frontend development with Vue.js and React.js.
+*   ⚙️ Possess solid backend knowledge (Django with DRF and NestJS) and DevOps practices (Docker and AWS), allowing me to handle the complete development lifecycle.
+*   🚀 My goal is to join a dynamic team where I can apply my skills to build innovative solutions and scale in an environment of constant learning.
 
 ---
 
@@ -77,17 +77,17 @@
 ### 🏢 Experience and Projects
 
 #### 🧠 Stroke Therapy Revolution LTD (Malta)
-*Role: Software Engineer (2022 - Present)*[cite: 1]
-*   **Architecture:** Responsible for the architecture of all application services, ensuring scalability and high performance.[cite: 1]
-*   **Frontend Development:** Developed the frontend for both the administrative and client web applications using Vue.js without UI dependencies.[cite: 1]
-*   **Technical Leadership:** Managed and directed the development team, driving innovation to deliver tools that significantly improve patients' neurocognitive recovery.[cite: 1]
+*Role: Software Engineer (2022 - Present)*
+*   **Architecture:** Responsible for the architecture of all application services, ensuring scalability and high performance.
+*   **Frontend Development:** Developed the frontend for both the administrative and client web applications using Vue.js without UI dependencies.
+*   **Technical Leadership:** Managed and directed the development team, driving innovation to deliver tools that significantly improve patients' neurocognitive recovery.
 
 #### 🏥 Centro Fisioterapia Roma (Italy)
-*Role: Web Developer (2022 - 2024)*[cite: 1]
-*   **Architecture & Leadership:** Defined the initial application architecture and managed the frontend, backend, and UX/UI teams.[cite: 1]
-*   **Development & DevOps:** Actively contributed to frontend development using React.js and Material UI.[cite: 1] Maintained the application by adding new features to the backend and managing DevOps processes on AWS.[cite: 1]
+*Role: Web Developer (2022 - 2024)*
+*   **Architecture & Leadership:** Defined the initial application architecture and managed the frontend, backend, and UX/UI teams.
+*   **Development & DevOps:** Actively contributed to frontend development using React.js and Material UI. Maintained the application by adding new features to the backend and managing DevOps processes on AWS.
 
 #### 📊 Levallem (Spain)
-*Role: VBA Developer (2019 - 2021)*[cite: 1]
-*   **Automation:** Developed and optimized VBA (and occasionally VB.NET) applications for the statistical analysis of sales across CPA and traffic networks.[cite: 1]
-*   **Data Management:** Responsible for the creation and constant updating of the executed offers database.[cite: 1]
+*Role: VBA Developer (2019 - 2021)*
+*   **Automation:** Developed and optimized VBA (and occasionally VB.NET) applications for the statistical analysis of sales across CPA and traffic networks.
+*   **Data Management:** Responsible for the creation and constant updating of the executed offers database.
