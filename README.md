@@ -6,12 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cerm88&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cerm88&theme=github" alt="GitHub Stats" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cerm88&theme=github" alt="Top Languages" width="49%" />
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerm88&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cerm88&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cerm88&theme=github)
 
 ---
 
