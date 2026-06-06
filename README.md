@@ -6,17 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cerm88">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api?username=cerm88&show_icons=true&theme=radical&hide_border=true&locale=es&cache_seconds=21600"
-      alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/cerm88">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerm88&layout=compact&theme=radical&hide_border=true&locale=es&cache_seconds=21600"
-      alt="Top Languages" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=cerm88&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerm88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cerm88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cerm88&theme=github)
 
 ---
 
