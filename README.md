@@ -7,10 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/cerm88">
-    <img src="https://github-stats-alpha.vercel.app/api?username=cerm88&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api?username=cerm88&show_icons=true&theme=radical&hide_border=true&locale=es&cache_seconds=21600"
+      alt="GitHub Stats" />
   </a>
   <a href="https://github.com/cerm88">
-    <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=cerm88&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    <img height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerm88&layout=compact&theme=radical&hide_border=true&locale=es&cache_seconds=21600"
+      alt="Top Languages" />
   </a>
 </p>
 
